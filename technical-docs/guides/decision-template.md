@@ -23,4 +23,5 @@ Example:
 - Subversion - Requires a subversion server, and uses outdated checkout and checkin processes that easily lead to corruption.
 
 
-
+# Learning resources
+List any useful learning resources that people can use to gain a better understanding of how to apply the decision
